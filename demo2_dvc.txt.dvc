@@ -1,5 +1,5 @@
 outs:
-- md5: 97d649792491745e6fb156f2e923f589
-  size: 31
+- md5: 782e912bab7bc90a073abbefc222a6d1
+  size: 79
   hash: md5
   path: demo2_dvc.txt
